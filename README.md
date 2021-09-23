@@ -31,4 +31,4 @@ Input is provided to the Jupyter Notebook through a user-supplied CSV file conta
 - [pandas.DataFrame.apply](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html)
 - [apply](https://www.geeksforgeeks.org/create-a-new-column-in-pandas-dataframe-based-on-the-existing-columns/)
 - [Monte Carlo Simulation with Python](https://pbpython.com/monte-carlo.html)
-
+- [plotting normal distribution over histogram](https://matplotlib.org/3.1.1/gallery/statistics/histogram_features.html)
