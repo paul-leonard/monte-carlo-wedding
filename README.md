@@ -15,8 +15,16 @@ This Jupyter Notebook provides a way for users to estimate a distribution of att
 Input is provided to the Jupyter Notebook through a user-supplied CSV file containing a list of guest parties invited to a wedding, including their guest count and the probability of each party attending the event.  The CSV is consumed into a pandas dataframe and then Monte Carlo simulations are run for the selected number of simulations.  Each simulation uses NumPy's random method and the user-supplied party's probability to determine if each guest party attends the event or not.  A resulting histogram of total wedding attendance is then displayed showing the distribution of attendees to be expected at the wedding.
 
 
+## Future Features
+- calculate typical percentage of invitees attending
+- refine bins
+- add labels
+- make a guest option where any party size of 1 automatically increases to 2
+
+
 ## Change Log
-**0.1.0** 9-8-2021 - Initial creation
+**0.1.0** 9-22-2021 - Initial creation
+**0.2.0** 9-22-2021 - Monte Carlo Analysis runs 1000 simulations and displays histogram
 
 
 ## Sources
