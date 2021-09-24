@@ -16,9 +16,6 @@ Input is provided to the Jupyter Notebook through a user-supplied CSV file conta
 
 
 ## Future Features
-- calculate typical percentage of invitees attending
-- refine bins
-- add labels
 - make a guest option where any party size of 1 automatically increases to 2
 
 
@@ -27,8 +24,11 @@ Input is provided to the Jupyter Notebook through a user-supplied CSV file conta
 **0.2.0** 9-22-2021 - Monte Carlo Analysis runs 1000 simulations and displays histogram
 
 
-## Sources
+## Sources/References
 - [pandas.DataFrame.apply](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html)
 - [apply](https://www.geeksforgeeks.org/create-a-new-column-in-pandas-dataframe-based-on-the-existing-columns/)
 - [Monte Carlo Simulation with Python](https://pbpython.com/monte-carlo.html)
 - [plotting normal distribution over histogram](https://matplotlib.org/3.1.1/gallery/statistics/histogram_features.html)
+- [What does 5-sigma mean in science?](https://www.zmescience.com/science/what-5-sigma-means-0423423/)
+- [tabulate](https://stackoverflow.com/questions/9535954/printing-lists-as-tabular-data)
+- [tabulate docs](https://pypi.org/project/tabulate/0)
