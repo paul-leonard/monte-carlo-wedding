@@ -4,7 +4,7 @@ A Monte Carlo Simulation to estimate the attendance to a wedding using Python, N
 
 ## Release Info
 **Author**: Paul Leonard
-**Version**: 0.1.0
+**Version**: 1.0.0
 
 # Wedding Attendance Estimator
 
@@ -30,6 +30,8 @@ The results of the analysis are provided in textual, tabular, and graphical repr
 ## Change Log
 **0.1.0** 9-22-2021 - Initial creation
 **0.2.0** 9-22-2021 - Monte Carlo Analysis runs 1000 simulations and displays histogram
+**0.3.0** 9-24-2021 - Added normal distribution curve, plot formatting, and results summary
+**1.0.0** 9-27-2021 - Added option to automatically account for plus-one guests, expanded assumptions and documentation section
 
 
 ## Assumptions
